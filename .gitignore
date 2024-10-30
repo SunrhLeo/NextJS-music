@@ -45,15 +45,20 @@ yarn-error.log*
 .pnpm-debug.log*
 *.tsbuildinfo
 
+# Python
 **/__pycache__/
 *.py[cod]
 *.pyo
 *.pyd
 .Python
 *.env
+
+# Go
 *.exe
 *.out
 *.test
+
+# Database Files
 *.sqlite
 *.db
 *.sql
