@@ -21,6 +21,10 @@ Thumbs.db
 node_modules/
 .pnpm-store/
 dist/
+env/
+venv/
+vendor/
+cython_debug/
 
 # Logs, Temporary, and Backup Files
 *.log
